@@ -1,0 +1,32 @@
+{
+  "name": "atbmarket",
+  "version": "1.0.0",
+  "description": "Even an ATB market plastic bag was there... What about you?!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavT/atbmarket.git"
+  },
+  "keywords": [
+    "ATB",
+    "market",
+    "joke"
+  ],
+  "author": "StanislavT <taras.forever@gmail.con>",
+  "maintainers": [
+    "Shereminskiy <aalex.prog@gmail.com>",
+    "tuxoff <tuxoff@gmail.com>",
+    "rocknrolla777 <reus.sergey14@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanislavT/atbmarket/issues"
+  },
+  "homepage": "https://github.com/stanislavT/atbmarket#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
