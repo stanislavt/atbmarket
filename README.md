@@ -1,6 +1,6 @@
 #ATB Plastic bag
 
-![alt tag](http://www.comserv.com.ua/images/stories/klienty/12.jpg )
+<img src="http://www.comserv.com.ua/images/stories/klienty/12.jpg" />
 
 ATB Plactic Bag like travel around the world.
 And we bring it to your project 
