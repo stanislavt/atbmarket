@@ -12,4 +12,14 @@ and add to your entry JS script:
 ```
 require('atbmarket')();
 ```
+
+atb has solutions for all situations:
+
+```
+require('atbmarket')({size:'big'});
+require('atbmarket')({size:'medium'});
+
+```
+
+
 Enjoy and show ATB the world of your production!
