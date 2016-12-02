@@ -12,4 +12,15 @@ and add to your entry JS script:
 ```
 require('atbmarket')();
 ```
+
+ATB has solutions for all situations:
+
+```
+require('atbmarket')('big');
+require('atbmarket')('middle');
+require('atbmarket')(); //render default size bag
+
+```
+
+
 Enjoy and show ATB the world of your production!
