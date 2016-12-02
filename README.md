@@ -17,7 +17,7 @@ ATB has solutions for all situations:
 
 ```
 require('atbmarket')('big');
-require('atbmarket')('middle');
+require('atbmarket')('little');
 require('atbmarket')(); //render default size bag
 
 ```
