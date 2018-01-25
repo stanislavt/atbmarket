@@ -2,7 +2,7 @@
 
 <img src="http://www.comserv.com.ua/images/stories/klienty/12.jpg" />
 
-ATB Plactic Bag like travel around the world.
+ATB Plactic Bag likes to travel around the world.
 And we bring it to your project 
 just run
 ```
