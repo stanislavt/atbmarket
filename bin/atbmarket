@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+
+const program = require('commander');
+const Provision = require('../lib/bags/provision');
+const { version } = require('../package');
+
+program
+  .version(version)
+  .option('-S, --size <size>', 'Choose size', /^(large|medium|small)$/i, 'medium')
+  .option('--no-colorized [value]', 'Is supposed to be not colorized?')
+  .parse(process.argv);
+
+const { size, colorized } = program;
+
+const factory = new Provision({ size, colorized });
+factory.chalk()

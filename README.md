@@ -1,26 +1,38 @@
-#ATB Plastic bag
+# ATB Plastic bag
 
-<img src="http://www.comserv.com.ua/images/stories/klienty/12.jpg" />
+![Plastic bag](http://www.comserv.com.ua/images/stories/klienty/12.jpg)
 
-ATB Plactic Bag likes to travel around the world.
-And we bring it to your project 
-just run
-```
-npm install atbmarket --save
-```
-and add to your entry JS script: 
-```
-require('atbmarket')();
-```
-
-ATB has solutions for all situations:
+ATB Plastic Bag likes to travel around the world and take a lot of photos. The next photo will be taken in your project. So, how to do it:
+## Installation:
 
 ```
-require('atbmarket')('big');
-require('atbmarket')('little');
-require('atbmarket')(); //render default size bag
-
+npm install atbmarket -g
 ```
 
+## Add to your entry JS script:
+
+```
+const Provision = require('atbmarket');
+
+const bag = new Provision();
+bag.draw()    // Draw the bag in terminal
+bag.caption() // Show a caption in terminal
+bag.chalk()   // Show both bag and caption in terminal
+```
+
+## Or just run it in terminal:
+
+`atbmarket` draws plastic bag in terminal.
+
+`atbmarket --help` shows more details.
+
+### Options:
+
+```
+  -V, --version           output the version number
+  -S, --size <size>       Choose size (default: medium)
+  --no-colorized [value]  Is supposed to be not colorized?
+  -h, --help              output usage information
+```
 
 Enjoy and show ATB the world of your production!
