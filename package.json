@@ -1,6 +1,6 @@
 {
   "name": "atbmarket",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Even an ATB market plastic bag was there... What about you?!",
   "main": "lib/index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 # ATB Plastic bag
 
-![Plastic bag](http://www.comserv.com.ua/images/stories/klienty/12.jpg)
+![Plastic bag](https://s.048.ua/s/4/section/newsInText/upload/images/news/intext/000/050/617/eko-paket2_5ca753ec4efcd.jpg)
 
 ATB Plastic Bag likes to travel around the world and take a lot of photos. The next photo will be taken in your project. So, how to do it:
 ## Installation:
